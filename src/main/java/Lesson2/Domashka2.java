@@ -10,7 +10,7 @@ public class Domashka2 {
 
         Printstr("Джава это круто",3);
 
-        checkYars(200);
+        checkYears(200);
 
 
     }
@@ -45,7 +45,7 @@ public class Domashka2 {
         }
     }
     //5 Метод
-    public static boolean checkYars (int yars) {
+    public static boolean checkYears (int yars) {
         if (yars % 4 == 0 && yars % 100 != 0 || yars % 400 == 0 ) {
             return true;
         }
