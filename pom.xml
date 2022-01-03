@@ -11,6 +11,7 @@
     <properties>
         <maven.compiler.sourse>1.17</maven.compiler.sourse>
         <maven.compiler.target>1.17</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
     </properties>
 
 
