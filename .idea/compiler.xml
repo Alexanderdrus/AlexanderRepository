@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AlexanderRepository" target="1.17" />
+      <module name="AlexanderRepository" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
