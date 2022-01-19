@@ -9,6 +9,7 @@ public class Sotrudnik {
     private int Salary;
     private int Age;
 
+
     //Constructor
     public Sotrudnik(String FullName, String Position, String Email, long Phone, int Salary, int Age) {
         this.FullName = FullName;
