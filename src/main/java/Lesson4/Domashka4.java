@@ -9,10 +9,10 @@ public class Domashka4 {
     //Поле
     public static char[][] map;
     //Размер поля
-    public static final int SIZE=5;
+    public static final int SIZE=3;
 
     //Точек для победы
-    public static final int DOTS_TO_WIN=4;
+    public static final int DOTS_TO_WIN=3;
 
     //Типы точек
     public static final char DOT_EMPTY='*';
